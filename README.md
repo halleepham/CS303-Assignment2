@@ -8,7 +8,7 @@
   ### -download files under the folder "Part 1"
   ### -run main.cpp
   ### -choose which function you would like to test by entering an integer from the menu
-###
+###   
 ### To test PART 2 (Employee Classes):
   ### -download files under folder "Part 2"
   ### -run main.cpp
