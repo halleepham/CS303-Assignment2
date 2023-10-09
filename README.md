@@ -3,7 +3,7 @@
 ### Student ID: 16311983
 ### Email: hdph78@umsystem.edu
 
-### INSTRUCTIONS FOR THE GRADER:
+## INSTRUCTIONS FOR THE GRADER:
 ### To test PART 1 (Single-linked List Class):
     -download files under the folder "Part 1"
     -run main.cpp
@@ -14,3 +14,5 @@
     -program should automatically display data for instance of the professional employee
     -enter the amount of works worked for the week for the nonprofessional employee
     -program will display data from nonprofessional employee
+
+### Screenshots of output can be seen in word documents "Part 1 Screenshots" and "Part 2 Screenshot"
