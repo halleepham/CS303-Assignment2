@@ -15,4 +15,4 @@
     -enter the amount of works worked for the week for the nonprofessional employee
     -program will display data from nonprofessional employee
 
-### Screenshots of output can be seen in word documents "Part 1 Screenshots" and "Part 2 Screenshot"
+### Screenshots of output can be seen in word documents "Part 1 Screenshots" and "Part 2 Screenshots"
